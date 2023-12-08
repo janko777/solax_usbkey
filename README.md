@@ -1,5 +1,6 @@
 # solax wifi usbkey component for Home Assistant
 read json data from usb wifi key
+![alt text](https://github.com/janko777/solax_usbkey/blob/main/solax_dashboard.jpg?raw=true)
 example POST request, pwd = usb wifi SSID
 ```
 curl -d "optType=ReadRealTimeData&pwd=S?????????" -X POST http://192.168.xx.xx
