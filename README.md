@@ -1,4 +1,4 @@
-# solax_usbkey
+# solax wifi usbkey component for Home Assistant
 read json data from usb wifi key
 example POST request, pwd = usb wifi SSID
 ```
