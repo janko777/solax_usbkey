@@ -5,12 +5,9 @@ from homeassistant.components.sensor import (
     SensorDeviceClass,
     SensorEntity,
     SensorStateClass,
+    PLATFORM_SCHEMA,
 )
-from homeassistant.const import (
-    DEVICE_CLASS_POWER,
-    DEVICE_CLASS_ENERGY,
 
-)
 from homeassistant.const import UnitOfTemperature
 from homeassistant.const import UnitOfPower, UnitOfEnergy
 from homeassistant.core import HomeAssistant
